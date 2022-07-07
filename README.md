@@ -20,5 +20,3 @@ Pull requestler kabul edilir . Büyük değişiklikler için, lütfen önce neyi
 ## **License**
 
 [MIT](...)
-
-![Proje](https://www.hizliresim.com/8mugi4v)
