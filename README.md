@@ -21,3 +21,4 @@ Pull requestler kabul edilir . Büyük değişiklikler için, lütfen önce neyi
 
 [MIT](...)
 
+![Proje](https://www.hizliresim.com/8mugi4v)
